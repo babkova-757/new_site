@@ -1,5 +1,6 @@
 head {
   text-align: center;
+  background-color: orange;
 }
 
 p {
@@ -8,10 +9,20 @@ p {
 }
 
 img {
-  width: 50px
+  width: 500px
   border: 5px solid black;
 }
 
 body {
   background-color: yellow;
 }
+
+h1 {
+  text-align: center;
+}
+
+main {
+  background-color: orange;
+}
+
+
