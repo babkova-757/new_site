@@ -1,6 +1,6 @@
 head {
   text-align: center;
-  background-color: orange;
+  color: orange;
 }
 
 p {
@@ -14,7 +14,7 @@ img {
 }
 
 body {
-  background-color: yellow;
+  color: yellow;
 }
 
 h1 {
@@ -22,7 +22,7 @@ h1 {
 }
 
 main {
-  background-color: orange;
+  color: orange;
 }
 
 
